@@ -19,6 +19,10 @@ VS extensions that are particulary useful when developing VS extensions:
 * [Awesome Roslyn](https://github.com/ironcev/awesome-roslyn)
 * [Awesome Analyzers](https://github.com/Cybermaxs/awesome-analyzers)
 
+# Undocumented API
+
+* [MinimalisticView](https://github.com/poma/MinimalisticView) — Sample-like extension that overrides internal WPF styles in order to achieve its purpose.
+
 # Other lists and hubs
 
 * [Visual Studio Extensibility Samples](https://github.com/microsoft/VSSDK-Extensibility-Samples)
