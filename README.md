@@ -2,6 +2,10 @@
 
 I can't find any already existing awesome list about this topic. Thus, I'm starting it now.
 
+# Guidelines
+
+* [Visual Studio Extensibility Checklist](https://gist.github.com/madskristensen/7310c0d61694e323f4deeb5a70f35fec)
+
 # Performance
 
 * [Building High Performance Extensions Part 1](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Building-High-Performance-Extensions-Part-1), [Part 2](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Building-High-Performance-Extensions-Part-2)
