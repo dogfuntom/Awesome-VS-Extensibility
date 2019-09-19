@@ -23,7 +23,7 @@ Specific areas to integrate into.
 
 * [Building High Performance Extensions Part 1](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Building-High-Performance-Extensions-Part-1), [Part 2](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Building-High-Performance-Extensions-Part-2) — Testing (incl. Unit-, Integration-/System-, BDD), Exception Handling, Crash Analysis, Profiling, Optimization (Loading Performance, Memory Leaks, Memory Traffic).
 
-## Awesome Roslyn (.NET Compiler Platform) lists
+## .NET Compiler Platform (former Roslyn)
 * [Awesome Roslyn](https://github.com/ironcev/awesome-roslyn)
 * [Awesome Analyzers](https://github.com/Cybermaxs/awesome-analyzers)
 
