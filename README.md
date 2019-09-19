@@ -1,6 +1,6 @@
-# Awesome list of Visual Studio Extensibility resources
+# Awesome Visual Studio Extensibility
 
-I can't find any already existing awesome list about this topic. Thus, I'm starting it now.
+Awesome list of Visual Studio Extensibility resources
 
 ## Extensions
 
